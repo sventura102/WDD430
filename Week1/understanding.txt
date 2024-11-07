@@ -1,0 +1,11 @@
+What is the DOM?
+    - It's short hand for Document Object Model. It's an object representation of the HTML elements.
+    It acts as a bridge between your code and the user interface, and has a tree-like structure with
+    parent and child relationships.
+What is the difference between Imperative vs Declarative Programming - Think about the difference between step-by-step instructions on how to make a pizza vs just ordering a pizza.
+    - Imperative is when you write down all the steps for the program so that it can executed. 
+    Whereas Declarative is more of just telling it 'Make this' without the extra steps.
+What is JSX - the syntax extension for JavaScript?
+    -
+What is the Babel interpreter?
+    -
